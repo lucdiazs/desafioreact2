@@ -1,10 +1,9 @@
-// Formulario.jsx
 import React from 'react';
 
 const Formulario = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Aquí puedes agregar la lógica para manejar los datos del formulario
+
   };
 
   return (

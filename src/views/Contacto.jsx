@@ -1,4 +1,3 @@
-// Contacto.jsx
 import React from 'react';
 import Formulario from '../Components/Formulario';
 

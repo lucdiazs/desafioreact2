@@ -1,6 +1,5 @@
-// Home.jsx
 import React from 'react';
-import { GiCakeSlice } from 'react-icons/gi'; // Importa el ícono de pastel
+import { GiCakeSlice } from 'react-icons/gi';
 
 const Home = () => {
   return (
